@@ -39,7 +39,7 @@ body {
 
 /* Container */
 .container {
-    margin-top: 100px; /* Adjusted so buttons don't overlap content */
+    margin-top: 150px; /* Adjusted so buttons don't overlap content */
     padding: 20px;
 }
 
